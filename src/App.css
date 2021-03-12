@@ -1,0 +1,87 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+/* .App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100%;
+} */
+
+.App .card {
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+}
+label.radio {
+  display: block;
+  text-align: left;
+  padding: 15px;
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+label.radio + .radio {
+  margin-left: 0;
+}
+
+label.radio input {
+  margin-right: 10px;
+}
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0px;
+  margin: 0px 0px 10px;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+#sidebar article {
+  height: 100vh;
+}
+.index {
+  width: 2em;
+  color: #333;
+  font-style: italic;
+  font-size: large;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 1rem;
+}
+.question-wrapper {
+  display: flex;
+}
+label.radio {
+  width: 100%;
+}
+@media only screen and (min-width: 37.5em) {
+  .videoWrapper {
+    position: relative;
+    display: inline;
+    height: auto;
+    top: 0;
+    padding: 0;
+  }
+  .videoWrapper iframe {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 560px;
+    height: 315px;
+  }
+  .App .card {
+    max-width: 560px;
+  }
+}
+/* @media (min-width: 96em) {
+  .container {
+    max-width: 95vw;
+  }
+} */

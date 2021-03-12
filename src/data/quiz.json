@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "title": "Skiers vs Snowboarders 1985",
+      "url": "https://www.youtube.com/embed/XPZDEWBzneY",
+      "question": "Snow surfin is only practiced",
+      "choices": [
+        "in local ski slopes recently",
+        "in California for almost two years",
+        "in United States for almost ten years"
+      ],
+      "answer": "in United States for almost ten years",
+      "transcription": "an idea that originated in where else : California. It's been around for almost a decade in United State. And now it's becoming the trendy thing to do on our local ski slopes"
+    },
+    {
+      "question": "The operators ...",
+      "choices": [
+        "accept anyone on the chairlift",
+        "accept only skiers and good snowboarders",
+        "don' t want any snowboards onto the chairlift"
+      ],
+      "answer": "don' t want any snowboards onto the chairlift",
+      "transcription": "The operators refuse anyone with a snowboard onto the charlift"
+    },
+    {
+      "question": "The major problem with the snowboards is..",
+      "choices": [
+        "that they drink alcool",
+        "that they run into people",
+        "that they fight with people"
+      ],
+      "answer": "that they run into people",
+      "transcription": "The major problem with the snowboards is that they run into people, they can't see behind them."
+    },
+
+    {
+      "question": "with the powder strap..",
+      "choices": [
+        "your board can't go anymore than three feet",
+        "it helps to keep stable on your board ",
+        "your feet are well tied to the board"
+      ],
+      "answer": "your board can't go anymore than three feet",
+      "transcription": "this powder strap right here hold you on like a break, your board can't go anymore than three feet"
+    },
+    {
+      "question": "Ski patrols hope that in the future ...",
+      "choices": [
+        "skis and snowboards will find compromise",
+        "they won't see snowboarders at all",
+        "snowboard will become more popular"
+      ],
+      "answer": "they won't see snowboarders at all",
+      "transcription": "Presenter:you see any compromise in the future at all. Ski patrol: no no, skiing is becoming more and more popular.. We don't want them at all"
+    }
+  ]
+}
